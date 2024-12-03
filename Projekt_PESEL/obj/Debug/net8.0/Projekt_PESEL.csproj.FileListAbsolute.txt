@@ -1,0 +1,14 @@
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\bin\Debug\net8.0\Projekt_PESEL.exe
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\bin\Debug\net8.0\Projekt_PESEL.deps.json
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\bin\Debug\net8.0\Projekt_PESEL.runtimeconfig.json
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\bin\Debug\net8.0\Projekt_PESEL.dll
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\bin\Debug\net8.0\Projekt_PESEL.pdb
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\obj\Debug\net8.0\Projekt_PESEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\obj\Debug\net8.0\Projekt_PESEL.AssemblyInfoInputs.cache
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\obj\Debug\net8.0\Projekt_PESEL.AssemblyInfo.cs
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\obj\Debug\net8.0\Projekt_PESEL.csproj.CoreCompileInputs.cache
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\obj\Debug\net8.0\Projekt_PESEL.dll
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\obj\Debug\net8.0\refint\Projekt_PESEL.dll
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\obj\Debug\net8.0\Projekt_PESEL.pdb
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\obj\Debug\net8.0\Projekt_PESEL.genruntimeconfig.cache
+D:\Cplusplusplusplus\GitHub\Projekt_PESEL\obj\Debug\net8.0\ref\Projekt_PESEL.dll

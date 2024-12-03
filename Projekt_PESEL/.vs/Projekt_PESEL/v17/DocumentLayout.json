@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cplusplusplusplus\\GitHub\\Projekt_PESEL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44072B2-59A5-4541-8312-2D2E468AA5CE}|Projekt_PESEL.csproj|d:\\cplusplusplusplus\\github\\projekt_pesel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44072B2-59A5-4541-8312-2D2E468AA5CE}|Projekt_PESEL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44072B2-59A5-4541-8312-2D2E468AA5CE}|Projekt_PESEL.csproj|d:\\cplusplusplusplus\\github\\projekt_pesel\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44072B2-59A5-4541-8312-2D2E468AA5CE}|Projekt_PESEL.csproj|solutionrelative:myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyException.cs",
+              "DocumentMoniker": "D:\\Cplusplusplusplus\\GitHub\\Projekt_PESEL\\MyException.cs",
+              "RelativeDocumentMoniker": "MyException.cs",
+              "ToolTip": "D:\\Cplusplusplusplus\\GitHub\\Projekt_PESEL\\MyException.cs",
+              "RelativeToolTip": "MyException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:34:49.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cplusplusplusplus\\GitHub\\Projekt_PESEL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Cplusplusplusplus\\GitHub\\Projekt_PESEL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:32:51.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bsTmewTk1sL3teDh99TCqbN5qNaZCjBKNOP4dUX7YoWi51L3LItSj7K7gp7IWx69g18JWYvEbzV0pG0sjTsl0w==",
+  "success": true,
+  "projectFilePath": "D:\\Cplusplusplusplus\\GitHub\\Projekt_PESEL\\Projekt_PESEL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
