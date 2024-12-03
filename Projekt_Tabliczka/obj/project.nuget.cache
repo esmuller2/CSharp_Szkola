@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R/WfHlfhi+QsOGkJfC+f1yLlO/PmeYUltNmP5C18VyITbLGfxh766N8Uz5k61pmVEtwccjDF2epDntTE5t0khw==",
+  "success": true,
+  "projectFilePath": "D:\\Cplusplusplusplus\\Konsolowo\\Tabliczka\\Tabliczka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

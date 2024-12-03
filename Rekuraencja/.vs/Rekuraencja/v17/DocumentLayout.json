@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cplusplusplusplus\\Konsolowo\\Rekuraencja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D722631E-B1FE-4587-B1B2-9A61C5290C2F}|Rekuraencja.csproj|d:\\cplusplusplusplus\\konsolowo\\rekuraencja\\rekurencja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D722631E-B1FE-4587-B1B2-9A61C5290C2F}|Rekuraencja.csproj|solutionrelative:rekurencja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D722631E-B1FE-4587-B1B2-9A61C5290C2F}|Rekuraencja.csproj|d:\\cplusplusplusplus\\konsolowo\\rekuraencja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D722631E-B1FE-4587-B1B2-9A61C5290C2F}|Rekuraencja.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rekurencja.cs",
+              "DocumentMoniker": "D:\\Cplusplusplusplus\\Konsolowo\\Rekuraencja\\Rekurencja.cs",
+              "RelativeDocumentMoniker": "Rekurencja.cs",
+              "ToolTip": "D:\\Cplusplusplusplus\\Konsolowo\\Rekuraencja\\Rekurencja.cs",
+              "RelativeToolTip": "Rekurencja.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:14:07.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cplusplusplusplus\\Konsolowo\\Rekuraencja\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Cplusplusplusplus\\Konsolowo\\Rekuraencja\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:13:50.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

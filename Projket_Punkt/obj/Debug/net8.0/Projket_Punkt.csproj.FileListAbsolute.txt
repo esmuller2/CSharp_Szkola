@@ -1,0 +1,14 @@
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\bin\Debug\net8.0\Projket_Punkt.exe
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\bin\Debug\net8.0\Projket_Punkt.deps.json
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\bin\Debug\net8.0\Projket_Punkt.runtimeconfig.json
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\bin\Debug\net8.0\Projket_Punkt.dll
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\bin\Debug\net8.0\Projket_Punkt.pdb
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\obj\Debug\net8.0\Projket_Punkt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\obj\Debug\net8.0\Projket_Punkt.AssemblyInfoInputs.cache
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\obj\Debug\net8.0\Projket_Punkt.AssemblyInfo.cs
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\obj\Debug\net8.0\Projket_Punkt.csproj.CoreCompileInputs.cache
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\obj\Debug\net8.0\Projket_Punkt.dll
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\obj\Debug\net8.0\refint\Projket_Punkt.dll
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\obj\Debug\net8.0\Projket_Punkt.pdb
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\obj\Debug\net8.0\Projket_Punkt.genruntimeconfig.cache
+D:\Cplusplusplusplus\Konsolowo\Projket_Punkt\obj\Debug\net8.0\ref\Projket_Punkt.dll

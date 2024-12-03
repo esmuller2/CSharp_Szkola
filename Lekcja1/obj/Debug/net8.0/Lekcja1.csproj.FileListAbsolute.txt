@@ -1,0 +1,14 @@
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\bin\Debug\net8.0\Lekcja1.exe
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\bin\Debug\net8.0\Lekcja1.deps.json
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\bin\Debug\net8.0\Lekcja1.runtimeconfig.json
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\bin\Debug\net8.0\Lekcja1.dll
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\bin\Debug\net8.0\Lekcja1.pdb
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\obj\Debug\net8.0\Lekcja1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\obj\Debug\net8.0\Lekcja1.AssemblyInfoInputs.cache
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\obj\Debug\net8.0\Lekcja1.AssemblyInfo.cs
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\obj\Debug\net8.0\Lekcja1.csproj.CoreCompileInputs.cache
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\obj\Debug\net8.0\Lekcja1.dll
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\obj\Debug\net8.0\refint\Lekcja1.dll
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\obj\Debug\net8.0\Lekcja1.pdb
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\obj\Debug\net8.0\Lekcja1.genruntimeconfig.cache
+D:\Cplusplusplusplus\Konsolowo\Lekcja1\obj\Debug\net8.0\ref\Lekcja1.dll

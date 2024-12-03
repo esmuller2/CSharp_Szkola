@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cplusplusplusplus\\Konsolowo\\Tabliczka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC02604-A7E9-4DB3-BA56-538DD03004C8}|Tabliczka.csproj|D:\\Cplusplusplusplus\\Konsolowo\\Tabliczka\\liczba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC02604-A7E9-4DB3-BA56-538DD03004C8}|Tabliczka.csproj|solutionrelative:liczba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC02604-A7E9-4DB3-BA56-538DD03004C8}|Tabliczka.csproj|d:\\cplusplusplusplus\\konsolowo\\tabliczka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC02604-A7E9-4DB3-BA56-538DD03004C8}|Tabliczka.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Liczba.cs",
+              "DocumentMoniker": "D:\\Cplusplusplusplus\\Konsolowo\\Tabliczka\\Liczba.cs",
+              "RelativeDocumentMoniker": "Liczba.cs",
+              "ToolTip": "D:\\Cplusplusplusplus\\Konsolowo\\Tabliczka\\Liczba.cs",
+              "RelativeToolTip": "Liczba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:29:25.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cplusplusplusplus\\Konsolowo\\Tabliczka\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Cplusplusplusplus\\Konsolowo\\Tabliczka\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:19:30.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

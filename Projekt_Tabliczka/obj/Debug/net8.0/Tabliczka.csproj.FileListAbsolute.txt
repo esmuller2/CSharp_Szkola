@@ -1,0 +1,14 @@
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\bin\Debug\net8.0\Tabliczka.exe
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\bin\Debug\net8.0\Tabliczka.deps.json
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\bin\Debug\net8.0\Tabliczka.runtimeconfig.json
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\bin\Debug\net8.0\Tabliczka.dll
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\bin\Debug\net8.0\Tabliczka.pdb
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\obj\Debug\net8.0\Tabliczka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\obj\Debug\net8.0\Tabliczka.AssemblyInfoInputs.cache
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\obj\Debug\net8.0\Tabliczka.AssemblyInfo.cs
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\obj\Debug\net8.0\Tabliczka.csproj.CoreCompileInputs.cache
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\obj\Debug\net8.0\Tabliczka.dll
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\obj\Debug\net8.0\refint\Tabliczka.dll
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\obj\Debug\net8.0\Tabliczka.pdb
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\obj\Debug\net8.0\Tabliczka.genruntimeconfig.cache
+D:\Cplusplusplusplus\Konsolowo\Tabliczka\obj\Debug\net8.0\ref\Tabliczka.dll

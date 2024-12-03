@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lj8Myk5RkMpSNoA3K8xd/RdFKkWPsZKMfe4wORpqeexsk0gN26l7pMQgJFAFSRLabVkSWnO1uTeDxogLsN7ZmQ==",
+  "success": true,
+  "projectFilePath": "D:\\Cplusplusplusplus\\Konsolowo\\Trojkaty\\Trojkaty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

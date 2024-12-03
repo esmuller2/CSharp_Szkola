@@ -1,0 +1,14 @@
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\bin\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.exe
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\bin\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.deps.json
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\bin\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.runtimeconfig.json
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\bin\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.dll
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\bin\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.pdb
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\obj\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\obj\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.AssemblyInfoInputs.cache
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\obj\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.AssemblyInfo.cs
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\obj\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.csproj.CoreCompileInputs.cache
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\obj\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.dll
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\obj\Debug\net8.0\refint\Lekcja_3_Metody_i_Pola_Statyczne.dll
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\obj\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.pdb
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\obj\Debug\net8.0\Lekcja_3_Metody_i_Pola_Statyczne.genruntimeconfig.cache
+D:\Cplusplusplusplus\Konsolowo\Lekcja_3_Metody_i_Pola_Statyczne\obj\Debug\net8.0\ref\Lekcja_3_Metody_i_Pola_Statyczne.dll

@@ -1,0 +1,14 @@
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\bin\Debug\net8.0\Wyjatki2.exe
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\bin\Debug\net8.0\Wyjatki2.deps.json
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\bin\Debug\net8.0\Wyjatki2.runtimeconfig.json
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\bin\Debug\net8.0\Wyjatki2.dll
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\bin\Debug\net8.0\Wyjatki2.pdb
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\obj\Debug\net8.0\Wyjatki2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\obj\Debug\net8.0\Wyjatki2.AssemblyInfoInputs.cache
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\obj\Debug\net8.0\Wyjatki2.AssemblyInfo.cs
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\obj\Debug\net8.0\Wyjatki2.csproj.CoreCompileInputs.cache
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\obj\Debug\net8.0\Wyjatki2.dll
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\obj\Debug\net8.0\refint\Wyjatki2.dll
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\obj\Debug\net8.0\Wyjatki2.pdb
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\obj\Debug\net8.0\Wyjatki2.genruntimeconfig.cache
+D:\Cplusplusplusplus\Konsolowo\Wyjatki2\obj\Debug\net8.0\ref\Wyjatki2.dll

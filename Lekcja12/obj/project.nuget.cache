@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZXHBH4w2d4LYgBeHWgqIFSiB9AHEgs9ls8s0eMcXpn1jAk5e249+C1xIwIUUGGAVfbWjXlTaK5ubny8aYU9K1w==",
+  "success": true,
+  "projectFilePath": "D:\\Cplusplusplusplus\\Konsolowo\\Lekcja12\\Lekcja12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

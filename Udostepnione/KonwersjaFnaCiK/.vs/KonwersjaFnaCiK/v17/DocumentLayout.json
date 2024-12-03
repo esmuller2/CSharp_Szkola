@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cplusplusplusplus\\Konsolowo\\Udostepnione\\KonwersjaFnaCiK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1238E482-01BF-4F39-A6BD-736D502F9DF3}|KonwersjaFnaCiK.csproj|d:\\cplusplusplusplus\\konsolowo\\udostepnione\\konwersjafnacik\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1238E482-01BF-4F39-A6BD-736D502F9DF3}|KonwersjaFnaCiK.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Cplusplusplusplus\\Konsolowo\\Udostepnione\\KonwersjaFnaCiK\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "D:\\Cplusplusplusplus\\Konsolowo\\Udostepnione\\KonwersjaFnaCiK\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:47:07.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cplusplusplusplus\\Konsolowo\\Lekcja7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD231406-0DD1-4734-BDA1-12BB5B2709EC}|Lekcja7.csproj|D:\\Cplusplusplusplus\\Konsolowo\\Lekcja7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD231406-0DD1-4734-BDA1-12BB5B2709EC}|Lekcja7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD231406-0DD1-4734-BDA1-12BB5B2709EC}|Lekcja7.csproj|d:\\cplusplusplusplus\\konsolowo\\lekcja7\\blad_zakresu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD231406-0DD1-4734-BDA1-12BB5B2709EC}|Lekcja7.csproj|solutionrelative:blad_zakresu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blad_zakresu.cs",
+              "DocumentMoniker": "D:\\Cplusplusplusplus\\Konsolowo\\Lekcja7\\Blad_zakresu.cs",
+              "RelativeDocumentMoniker": "Blad_zakresu.cs",
+              "ToolTip": "D:\\Cplusplusplusplus\\Konsolowo\\Lekcja7\\Blad_zakresu.cs",
+              "RelativeToolTip": "Blad_zakresu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:29:42.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cplusplusplusplus\\Konsolowo\\Lekcja7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Cplusplusplusplus\\Konsolowo\\Lekcja7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:59.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

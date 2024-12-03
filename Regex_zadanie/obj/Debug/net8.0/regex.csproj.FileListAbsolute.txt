@@ -1,0 +1,28 @@
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\bin\Debug\net8.0\regex.exe
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\bin\Debug\net8.0\regex.deps.json
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\bin\Debug\net8.0\regex.runtimeconfig.json
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\bin\Debug\net8.0\regex.dll
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\bin\Debug\net8.0\regex.pdb
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\obj\Debug\net8.0\regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\obj\Debug\net8.0\regex.AssemblyInfoInputs.cache
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\obj\Debug\net8.0\regex.AssemblyInfo.cs
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\obj\Debug\net8.0\regex.csproj.CoreCompileInputs.cache
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\obj\Debug\net8.0\regex.dll
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\obj\Debug\net8.0\refint\regex.dll
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\obj\Debug\net8.0\regex.pdb
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\obj\Debug\net8.0\regex.genruntimeconfig.cache
+C:\Users\programowanie\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Pulpit\trojkaty2\regex\obj\Debug\net8.0\ref\regex.dll
+D:\Cplusplusplusplus\Konsolowo\regex\bin\Debug\net8.0\regex.exe
+D:\Cplusplusplusplus\Konsolowo\regex\bin\Debug\net8.0\regex.deps.json
+D:\Cplusplusplusplus\Konsolowo\regex\bin\Debug\net8.0\regex.runtimeconfig.json
+D:\Cplusplusplusplus\Konsolowo\regex\bin\Debug\net8.0\regex.dll
+D:\Cplusplusplusplus\Konsolowo\regex\bin\Debug\net8.0\regex.pdb
+D:\Cplusplusplusplus\Konsolowo\regex\obj\Debug\net8.0\regex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cplusplusplusplus\Konsolowo\regex\obj\Debug\net8.0\regex.AssemblyInfoInputs.cache
+D:\Cplusplusplusplus\Konsolowo\regex\obj\Debug\net8.0\regex.AssemblyInfo.cs
+D:\Cplusplusplusplus\Konsolowo\regex\obj\Debug\net8.0\regex.csproj.CoreCompileInputs.cache
+D:\Cplusplusplusplus\Konsolowo\regex\obj\Debug\net8.0\regex.dll
+D:\Cplusplusplusplus\Konsolowo\regex\obj\Debug\net8.0\refint\regex.dll
+D:\Cplusplusplusplus\Konsolowo\regex\obj\Debug\net8.0\regex.pdb
+D:\Cplusplusplusplus\Konsolowo\regex\obj\Debug\net8.0\regex.genruntimeconfig.cache
+D:\Cplusplusplusplus\Konsolowo\regex\obj\Debug\net8.0\ref\regex.dll

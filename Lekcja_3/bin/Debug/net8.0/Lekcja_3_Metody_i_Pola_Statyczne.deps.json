@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lekcja_3_Metody_i_Pola_Statyczne/1.0.0": {
+        "runtime": {
+          "Lekcja_3_Metody_i_Pola_Statyczne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lekcja_3_Metody_i_Pola_Statyczne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\Cplusplusplusplus\Konsolowo\KonwersjaFnaCiK\bin\Debug\net8.0\KonwersjaFnaCiK.deps.json
+D:\Cplusplusplusplus\Konsolowo\KonwersjaFnaCiK\bin\Debug\net8.0\KonwersjaFnaCiK.dll
+D:\Cplusplusplusplus\Konsolowo\KonwersjaFnaCiK\bin\Debug\net8.0\KonwersjaFnaCiK.pdb
+D:\Cplusplusplusplus\Konsolowo\KonwersjaFnaCiK\obj\Debug\net8.0\KonwersjaFnaCiK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cplusplusplusplus\Konsolowo\KonwersjaFnaCiK\obj\Debug\net8.0\KonwersjaFnaCiK.AssemblyInfoInputs.cache
+D:\Cplusplusplusplus\Konsolowo\KonwersjaFnaCiK\obj\Debug\net8.0\KonwersjaFnaCiK.AssemblyInfo.cs
+D:\Cplusplusplusplus\Konsolowo\KonwersjaFnaCiK\obj\Debug\net8.0\KonwersjaFnaCiK.csproj.CoreCompileInputs.cache
+D:\Cplusplusplusplus\Konsolowo\KonwersjaFnaCiK\obj\Debug\net8.0\KonwersjaFnaCiK.dll
+D:\Cplusplusplusplus\Konsolowo\KonwersjaFnaCiK\obj\Debug\net8.0\refint\KonwersjaFnaCiK.dll
+D:\Cplusplusplusplus\Konsolowo\KonwersjaFnaCiK\obj\Debug\net8.0\KonwersjaFnaCiK.pdb
+D:\Cplusplusplusplus\Konsolowo\KonwersjaFnaCiK\obj\Debug\net8.0\ref\KonwersjaFnaCiK.dll
