@@ -41,6 +41,8 @@
             Console.WriteLine(t4.Max());
             Console.WriteLine(t4.Min());
 
+            Tablica.Wyswietl_Tablice(liczbyCalkowite);
+
             Console.ReadKey();
 
         }

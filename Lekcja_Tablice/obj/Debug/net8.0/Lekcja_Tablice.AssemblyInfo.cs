@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lekcja_Tablice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+540ed6267500e9654d73a97a0b93c0fb1160c924")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab8282147403f3614a2a28e8dfe35c54566f0f05")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lekcja_Tablice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lekcja_Tablice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
